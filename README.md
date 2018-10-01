@@ -1,1 +1,1 @@
-# ec2Server
+# ec2JerseyServer
